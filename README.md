@@ -1,2 +1,7 @@
 # spider
-db.py: requests + bs4 爬取豆瓣前250排行图书
+>涓�浜涚埇铏皬缁冧範
+
+1. db.py: requests + bs4 鐖彇璞嗙摚250
+2. maoyan_text.py: re + requests 鐖彇鐚溂鐢靛奖鎺掕
+3. boss.py: requests + bs4 鐖彇boss鐩磋仒骞跺啓鍏son鏂囦欢
+
