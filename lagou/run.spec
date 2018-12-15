@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['run.py'],
-             pathex=['F:\\ServerveManager\\Pycharm\\PyCharm 2018.2.2\\files\\python_test\\lagou'],
+             pathex=['F:\\ServerveManager\\Git\\file\\spider\\lagou'],
              binaries=[],
              datas=[],
              hiddenimports=[],
