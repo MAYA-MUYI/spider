@@ -22,3 +22,5 @@
 10. __run.py：__ 输入position即返回对应的职位信息
 ---
 11. __run.exe：__ run.py对应的可执行程序，在当前路径下直接执行run或者run.py即可(windows下)，请保证与positions.json路径同级
+---
+12. __requirements.txt：__ 依赖文件
