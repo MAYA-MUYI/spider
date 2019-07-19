@@ -1,0 +1,344 @@
+[
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:40",
+              "end_time": "16:30散场",
+              "lang": "国语2D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:40",
+              "end_time": "17:30散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:00",
+              "end_time": "18:50散场",
+              "lang": "国语2D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:00",
+              "end_time": "19:50散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:20",
+              "end_time": "21:10散场",
+              "lang": "国语2D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:20",
+              "end_time": "22:10散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:40",
+              "end_time": "23:30散场",
+              "lang": "国语2D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:40",
+              "end_time": "00:30散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:20",
+              "end_time": "16:14散场",
+              "lang": "英语4D",
+              "hall": "乐佳广场（4D）厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:20",
+              "end_time": "17:14散场",
+              "lang": "英语3D",
+              "hall": "金苹果幼稚园厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:40",
+              "end_time": "18:34散场",
+              "lang": "英语4D",
+              "hall": "乐佳广场（4D）厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "20:54散场",
+              "lang": "英语4D",
+              "hall": "乐佳广场（4D）厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "英语3D",
+              "hall": "金苹果幼稚园厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:20",
+              "end_time": "23:14散场",
+              "lang": "英语4D",
+              "hall": "乐佳广场（4D）厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:00",
+              "end_time": "16:43散场",
+              "lang": "国语2D",
+              "hall": "成都银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:20",
+              "end_time": "19:03散场",
+              "lang": "国语2D",
+              "hall": "成都银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:40",
+              "end_time": "21:23散场",
+              "lang": "国语2D",
+              "hall": "成都银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:00",
+              "end_time": "23:43散场",
+              "lang": "国语2D",
+              "hall": "成都银行厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "黑衣人：全球追缉",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "10:00",
+              "end_time": "11:55散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "12:20",
+              "end_time": "14:15散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "14:40",
+              "end_time": "16:35散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "17:00",
+              "end_time": "18:55散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "19:20",
+              "end_time": "21:15散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "21:40",
+              "end_time": "23:35散场",
+              "lang": "英语3D",
+              "hall": "老凤祥厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:40",
+              "end_time": "15:52散场",
+              "lang": "英语3D",
+              "hall": "锦泰保险厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:00",
+              "end_time": "18:12散场",
+              "lang": "英语3D",
+              "hall": "锦泰保险厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:20",
+              "end_time": "20:32散场",
+              "lang": "英语3D",
+              "hall": "锦泰保险厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:40",
+              "end_time": "22:52散场",
+              "lang": "英语3D",
+              "hall": "锦泰保险厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "无所不能",
+    "star": "9.2",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "17:40",
+              "end_time": "19:53散场",
+              "lang": "印度语2D",
+              "hall": "金苹果幼稚园厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:20",
+              "end_time": "00:33散场",
+              "lang": "印度语2D",
+              "hall": "金苹果幼稚园厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "妈阁是座城",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "10:40",
+              "end_time": "12:47散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "13:00",
+              "end_time": "15:07散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "17:40",
+              "end_time": "19:47散场",
+              "lang": "国语2D",
+              "hall": "爱尔眼科厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "周恩来回延安",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "09:30",
+              "end_time": "11:13散场",
+              "lang": "国语2D",
+              "hall": "锦泰保险厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:10",
+              "end_time": "16:04散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "14:40",
+              "end_time": "16:34散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:40",
+              "end_time": "17:34散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:20",
+              "end_time": "18:14散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:50",
+              "end_time": "18:44散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:50",
+              "end_time": "19:44散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:30",
+              "end_time": "20:24散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "20:54散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:40",
+              "end_time": "22:34散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:10",
+              "end_time": "23:04散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:10",
+              "end_time": "00:04散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "10:20",
+              "end_time": "12:14散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:00",
+              "end_time": "13:54散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:30",
+              "end_time": "14:24散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "13:30",
+              "end_time": "15:24散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:10",
+              "end_time": "16:04散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:40",
+              "end_time": "16:34散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:40",
+              "end_time": "17:34散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:20",
+              "end_time": "18:14散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:50",
+              "end_time": "18:44散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:50",
+              "end_time": "19:44散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:30",
+              "end_time": "20:24散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:00",
+              "end_time": "20:54散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:40",
+              "end_time": "22:34散场",
+              "lang": "英语3D",
+              "hall": "四厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:10",
+              "end_time": "23:04散场",
+              "lang": "英语3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:10",
+              "end_time": "00:04散场",
+              "lang": "英语3D",
+              "hall": "激光一厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:50",
+              "end_time": "15:40散场",
+              "lang": "国语2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "14:35",
+              "end_time": "16:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "14:55",
+              "end_time": "16:45散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:50",
+              "end_time": "17:40散场",
+              "lang": "国语2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:35",
+              "end_time": "18:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:05",
+              "end_time": "18:55散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:35",
+              "end_time": "20:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:20",
+              "end_time": "21:10散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:35",
+              "end_time": "22:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:30",
+              "end_time": "23:20散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:40",
+              "end_time": "00:30散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "10:30",
+              "end_time": "12:20散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "11:50",
+              "end_time": "13:40散场",
+              "lang": "国语2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:35",
+              "end_time": "14:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:50",
+              "end_time": "14:40散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "13:50",
+              "end_time": "15:40散场",
+              "lang": "国语2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:35",
+              "end_time": "16:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:55",
+              "end_time": "16:45散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:50",
+              "end_time": "17:40散场",
+              "lang": "国语2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:35",
+              "end_time": "18:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:05",
+              "end_time": "18:55散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:35",
+              "end_time": "20:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:20",
+              "end_time": "21:10散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:35",
+              "end_time": "22:25散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:30",
+              "end_time": "23:20散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:40",
+              "end_time": "00:30散场",
+              "lang": "国语2D",
+              "hall": "激光情侣七厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:15",
+              "end_time": "15:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:00",
+              "end_time": "16:43散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:15",
+              "end_time": "17:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:00",
+              "end_time": "18:43散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:10",
+              "end_time": "19:53散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:05",
+              "end_time": "20:48散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:10",
+              "end_time": "21:53散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:05",
+              "end_time": "22:48散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:15",
+              "end_time": "23:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "12:15",
+              "end_time": "13:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:15",
+              "end_time": "15:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:00",
+              "end_time": "16:43散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:15",
+              "end_time": "17:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:00",
+              "end_time": "18:43散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:10",
+              "end_time": "19:53散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:05",
+              "end_time": "20:48散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:10",
+              "end_time": "21:53散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:05",
+              "end_time": "22:48散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:15",
+              "end_time": "23:58散场",
+              "lang": "国语2D",
+              "hall": "激光二厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:40",
+              "end_time": "16:52散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:10",
+              "end_time": "19:22散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:50",
+              "end_time": "21:02散场",
+              "lang": "英语3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:40",
+              "end_time": "21:52散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:20",
+              "end_time": "23:32散场",
+              "lang": "英语3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:05",
+              "end_time": "00:17散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "12:10",
+              "end_time": "14:22散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:40",
+              "end_time": "16:52散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:10",
+              "end_time": "19:22散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:50",
+              "end_time": "21:02散场",
+              "lang": "英语3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:40",
+              "end_time": "21:52散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:20",
+              "end_time": "23:32散场",
+              "lang": "英语3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:05",
+              "end_time": "00:17散场",
+              "lang": "英语3D",
+              "hall": "激光六厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "黑衣人：全球追缉",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "00:10",
+              "end_time": "02:05散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "10:30",
+              "end_time": "12:25散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "12:40",
+              "end_time": "14:35散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "14:50",
+              "end_time": "16:45散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "17:00",
+              "end_time": "18:55散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "19:10",
+              "end_time": "21:05散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "21:20",
+              "end_time": "23:15散场",
+              "lang": "原版3D",
+              "hall": "三厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "阿拉丁",
+    "star": "9.0",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:00",
+              "end_time": "16:08散场",
+              "lang": "原版3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:30",
+              "end_time": "18:38散场",
+              "lang": "原版3D",
+              "hall": "激光十厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "11:20",
+              "end_time": "13:28散场",
+              "lang": "原版3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:00",
+              "end_time": "16:08散场",
+              "lang": "原版3D",
+              "hall": "激光十厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:30",
+              "end_time": "18:38散场",
+              "lang": "原版3D",
+              "hall": "激光十厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "无所不能",
+    "star": "9.2",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "17:55",
+              "end_time": "20:08散场",
+              "lang": "原版2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:20",
+              "end_time": "22:33散场",
+              "lang": "原版2D",
+              "hall": "激光九厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "12:25",
+              "end_time": "14:38散场",
+              "lang": "原版2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:55",
+              "end_time": "20:08散场",
+              "lang": "原版2D",
+              "hall": "激光九厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:20",
+              "end_time": "22:33散场",
+              "lang": "原版2D",
+              "hall": "激光九厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "绝杀慕尼黑",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "18:10",
+              "end_time": "20:11散场",
+              "lang": "原版2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-13",
+              "begin_time": "20:25",
+              "end_time": "22:26散场",
+              "lang": "原版2D",
+              "hall": "激光情侣七厅"
+            },
+            {
+              "date": "6-13",
+              "begin_time": "22:40",
+              "end_time": "00:41散场",
+              "lang": "原版2D",
+              "hall": "激光情侣七厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "秦明·生死语者",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "11:40",
+              "end_time": "13:24散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "13:40",
+              "end_time": "15:24散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "15:40",
+              "end_time": "17:24散场",
+              "lang": "国语2D",
+              "hall": "激光五厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "妈阁是座城",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "12:10",
+              "end_time": "14:17散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "14:30",
+              "end_time": "16:37散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "16:50",
+              "end_time": "18:57散场",
+              "lang": "国语2D",
+              "hall": "激光VIP厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

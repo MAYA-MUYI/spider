@@ -1,0 +1,1105 @@
+[
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:55",
+              "end_time": "17:07散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:30",
+              "end_time": "17:42散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:30",
+              "end_time": "19:42散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:55",
+              "end_time": "20:07散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:40",
+              "end_time": "21:52散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:20",
+              "end_time": "22:32散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:00",
+              "end_time": "23:12散场",
+              "lang": "英语3D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:15",
+              "end_time": "00:27散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:45",
+              "end_time": "00:57散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "11:10",
+              "end_time": "13:22散场",
+              "lang": "英语3D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:50",
+              "end_time": "15:02散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "13:35",
+              "end_time": "15:47散场",
+              "lang": "英语3D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:55",
+              "end_time": "17:07散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:30",
+              "end_time": "17:42散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:30",
+              "end_time": "19:42散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:55",
+              "end_time": "20:07散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:40",
+              "end_time": "21:52散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:20",
+              "end_time": "22:32散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:00",
+              "end_time": "23:12散场",
+              "lang": "英语3D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:15",
+              "end_time": "00:27散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:45",
+              "end_time": "00:57散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:05",
+              "end_time": "15:59散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:15",
+              "end_time": "17:09散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:15",
+              "end_time": "18:09散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:25",
+              "end_time": "19:19散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:25",
+              "end_time": "20:19散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:40",
+              "end_time": "22:34散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:05",
+              "end_time": "23:59散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:55",
+              "end_time": "00:49散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "10:40",
+              "end_time": "12:34散场",
+              "lang": "英语3D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "11:50",
+              "end_time": "13:44散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "13:00",
+              "end_time": "14:54散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:05",
+              "end_time": "15:59散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:15",
+              "end_time": "17:09散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:15",
+              "end_time": "18:09散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:25",
+              "end_time": "19:19散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:25",
+              "end_time": "20:19散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:40",
+              "end_time": "22:34散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:05",
+              "end_time": "23:59散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:55",
+              "end_time": "00:49散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:40",
+              "end_time": "16:30散场",
+              "lang": "国语2D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:50",
+              "end_time": "18:40散场",
+              "lang": "国语2D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "20:50散场",
+              "lang": "国语2D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:10",
+              "end_time": "22:00散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:10",
+              "end_time": "23:00散场",
+              "lang": "国语2D",
+              "hall": "7号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:25",
+              "end_time": "00:15散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "10:30",
+              "end_time": "12:20散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "12:35",
+              "end_time": "14:25散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "14:40",
+              "end_time": "16:30散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "16:50",
+              "end_time": "18:40散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:00",
+              "end_time": "19:50散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:00",
+              "end_time": "20:50散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "20:10",
+              "end_time": "22:00散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:10",
+              "end_time": "23:00散场",
+              "lang": "国语2D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "22:25",
+              "end_time": "00:15散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "黑衣人：全球追缉",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "00:05",
+              "end_time": "02:00散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "10:30",
+              "end_time": "12:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "12:45",
+              "end_time": "14:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "15:00",
+              "end_time": "16:55散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "16:45",
+              "end_time": "18:40散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "17:15",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "19:00",
+              "end_time": "20:55散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "19:30",
+              "end_time": "21:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-14",
+              "begin_time": "21:45",
+              "end_time": "23:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-15",
+          "session_result": [
+            {
+              "date": "6-15",
+              "begin_time": "10:30",
+              "end_time": "12:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "12:45",
+              "end_time": "14:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "15:00",
+              "end_time": "16:55散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "16:45",
+              "end_time": "18:40散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "17:15",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "19:00",
+              "end_time": "20:55散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "19:30",
+              "end_time": "21:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-15",
+              "begin_time": "21:45",
+              "end_time": "23:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-16",
+          "session_result": [
+            {
+              "date": "6-16",
+              "begin_time": "10:30",
+              "end_time": "12:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "12:45",
+              "end_time": "14:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "15:00",
+              "end_time": "16:55散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "16:45",
+              "end_time": "18:40散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "17:15",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "19:00",
+              "end_time": "20:55散场",
+              "lang": "英语IMAX3D",
+              "hall": "IMAX厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "19:30",
+              "end_time": "21:25散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-16",
+              "begin_time": "21:45",
+              "end_time": "23:40散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:10",
+              "end_time": "16:53散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:15",
+              "end_time": "18:58散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:20",
+              "end_time": "21:03散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:30",
+              "end_time": "23:13散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "11:00",
+              "end_time": "12:43散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "13:10",
+              "end_time": "14:53散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "15:10",
+              "end_time": "16:53散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "17:15",
+              "end_time": "18:58散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "19:20",
+              "end_time": "21:03散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "21:30",
+              "end_time": "23:13散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "玩具总动员4",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-21",
+          "session_result": [
+            {
+              "date": "6-21",
+              "begin_time": "11:30",
+              "end_time": "13:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "13:30",
+              "end_time": "15:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "15:30",
+              "end_time": "17:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "17:30",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "19:30",
+              "end_time": "21:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "21:30",
+              "end_time": "23:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-22",
+          "session_result": [
+            {
+              "date": "6-22",
+              "begin_time": "11:30",
+              "end_time": "13:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "13:30",
+              "end_time": "15:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "15:30",
+              "end_time": "17:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "17:30",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "19:30",
+              "end_time": "21:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "21:30",
+              "end_time": "23:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-23",
+          "session_result": [
+            {
+              "date": "6-23",
+              "begin_time": "11:30",
+              "end_time": "13:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "13:30",
+              "end_time": "15:10散场",
+              "lang": "国语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "15:30",
+              "end_time": "17:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "17:30",
+              "end_time": "19:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "19:30",
+              "end_time": "21:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "21:30",
+              "end_time": "23:10散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "绝杀慕尼黑",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "18:10",
+              "end_time": "20:11散场",
+              "lang": "俄语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-13",
+              "begin_time": "20:30",
+              "end_time": "22:31散场",
+              "lang": "俄语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-13",
+              "begin_time": "22:50",
+              "end_time": "00:51散场",
+              "lang": "俄语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "千与千寻",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-21",
+          "session_result": [
+            {
+              "date": "6-21",
+              "begin_time": "10:50",
+              "end_time": "12:55散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "13:15",
+              "end_time": "15:20散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-21",
+              "begin_time": "15:40",
+              "end_time": "17:45散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-22",
+          "session_result": [
+            {
+              "date": "6-22",
+              "begin_time": "10:50",
+              "end_time": "12:55散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "13:15",
+              "end_time": "15:20散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-22",
+              "begin_time": "15:40",
+              "end_time": "17:45散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-23",
+          "session_result": [
+            {
+              "date": "6-23",
+              "begin_time": "10:50",
+              "end_time": "12:55散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "13:15",
+              "end_time": "15:20散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-23",
+              "begin_time": "15:40",
+              "end_time": "17:45散场",
+              "lang": "日语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "无所不能",
+    "star": "9.2",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "16:00",
+              "end_time": "18:13散场",
+              "lang": "印度语2D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:30",
+              "end_time": "20:43散场",
+              "lang": "印度语2D",
+              "hall": "9号厅"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "16:00",
+              "end_time": "18:13散场",
+              "lang": "印度语2D",
+              "hall": "9号厅"
+            },
+            {
+              "date": "6-12",
+              "begin_time": "18:30",
+              "end_time": "20:43散场",
+              "lang": "印度语2D",
+              "hall": "9号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "大侦探皮卡丘",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-12",
+          "session_result": [
+            {
+              "date": "6-12",
+              "begin_time": "15:50",
+              "end_time": "17:34散场",
+              "lang": "国语3D",
+              "hall": "3号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

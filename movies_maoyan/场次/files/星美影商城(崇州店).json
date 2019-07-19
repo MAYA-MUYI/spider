@@ -1,0 +1,192 @@
+[
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:30",
+              "end_time": "17:42散场",
+              "lang": "英语3D",
+              "hall": "六号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:30",
+              "end_time": "19:42散场",
+              "lang": "英语3D",
+              "hall": "一号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:30",
+              "end_time": "21:42散场",
+              "lang": "英语3D",
+              "hall": "六号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:55",
+              "end_time": "22:07散场",
+              "lang": "英语3D",
+              "hall": "一号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:00",
+              "end_time": "15:54散场",
+              "lang": "英语3D",
+              "hall": "三号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:40",
+              "end_time": "17:34散场",
+              "lang": "英语3D",
+              "hall": "浩泽净水厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:30",
+              "end_time": "20:24散场",
+              "lang": "英语3D",
+              "hall": "三号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:50",
+              "end_time": "22:44散场",
+              "lang": "英语3D",
+              "hall": "三号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "阿拉丁",
+    "star": "9.0",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "16:10",
+              "end_time": "18:18散场",
+              "lang": "英语3D",
+              "hall": "三号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:45",
+              "end_time": "19:53散场",
+              "lang": "英语3D",
+              "hall": "浩泽净水厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:10",
+              "end_time": "22:18散场",
+              "lang": "英语3D",
+              "hall": "浩泽净水厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:30",
+              "end_time": "16:13散场",
+              "lang": "国语2D",
+              "hall": "五号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "20:43散场",
+              "lang": "国语2D",
+              "hall": "五号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哆啦A梦：大雄的月球探险记",
+    "star": "8.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:25",
+              "end_time": "17:16散场",
+              "lang": "国语2D",
+              "hall": "一号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "16:30",
+              "end_time": "18:20散场",
+              "lang": "国语2D",
+              "hall": "五号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:00",
+              "end_time": "22:50散场",
+              "lang": "国语2D",
+              "hall": "五号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:55",
+              "end_time": "15:49散场",
+              "lang": "英语3D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:00",
+              "end_time": "16:54散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:10",
+              "end_time": "18:04散场",
+              "lang": "英语3D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:10",
+              "end_time": "19:04散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:20",
+              "end_time": "20:14散场",
+              "lang": "英语3D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:20",
+              "end_time": "21:14散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:30",
+              "end_time": "22:24散场",
+              "lang": "英语3D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:35",
+              "end_time": "23:29散场",
+              "lang": "英语3D",
+              "hall": "6号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:30",
+              "end_time": "16:20散场",
+              "lang": "国语2D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:15",
+              "end_time": "17:05散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:40",
+              "end_time": "18:30散场",
+              "lang": "国语2D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:45",
+              "end_time": "20:35散场",
+              "lang": "国语2D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:50",
+              "end_time": "21:40散场",
+              "lang": "国语2D",
+              "hall": "4号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:55",
+              "end_time": "23:45散场",
+              "lang": "国语2D",
+              "hall": "4号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:50",
+              "end_time": "15:33散场",
+              "lang": "国语2D",
+              "hall": "4号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:50",
+              "end_time": "17:33散场",
+              "lang": "国语2D",
+              "hall": "4号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:20",
+              "end_time": "19:03散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:50",
+              "end_time": "19:33散场",
+              "lang": "国语2D",
+              "hall": "4号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:20",
+              "end_time": "21:03散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:20",
+              "end_time": "23:03散场",
+              "lang": "国语2D",
+              "hall": "3号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:00",
+              "end_time": "16:12散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:30",
+              "end_time": "18:42散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "21:12散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:50",
+              "end_time": "23:02散场",
+              "lang": "英语3D",
+              "hall": "5号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:25",
+              "end_time": "23:37散场",
+              "lang": "英语3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "阿拉丁",
+    "star": "9.0",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": []
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哆啦A梦：大雄的月球探险记",
+    "star": "8.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": []
+        }
+      ]
+    ]
+  }
+]

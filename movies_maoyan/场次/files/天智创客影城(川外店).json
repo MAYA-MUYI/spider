@@ -1,0 +1,221 @@
+[
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:50",
+              "end_time": "16:40散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:40",
+              "end_time": "18:30散场",
+              "lang": "国语2D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:40",
+              "end_time": "20:30散场",
+              "lang": "国语2D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:40",
+              "end_time": "22:30散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "16:50",
+              "end_time": "18:44散场",
+              "lang": "原版3D",
+              "hall": "1号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:40",
+              "end_time": "22:34散场",
+              "lang": "原版3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "绝杀慕尼黑",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-13",
+          "session_result": [
+            {
+              "date": "6-13",
+              "begin_time": "18:20",
+              "end_time": "20:21散场",
+              "lang": "原版2D",
+              "hall": "2号厅"
+            },
+            {
+              "date": "6-13",
+              "begin_time": "20:30",
+              "end_time": "22:31散场",
+              "lang": "原版2D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "阿拉丁",
+    "star": "9.0",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:25",
+              "end_time": "16:33散场",
+              "lang": "原版3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": []
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "无所不能",
+    "star": "9.2",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": []
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "18:50",
+              "end_time": "20:33散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "秦明·生死语者",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "18:35",
+              "end_time": "20:19散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "黑衣人：全球追缉",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "20:35",
+              "end_time": "22:30散场",
+              "lang": "原版3D",
+              "hall": "2号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "妈阁是座城",
+    "star": "暂无评分",
+    "result": [
+      [
+        {
+          "date": "6-14",
+          "session_result": [
+            {
+              "date": "6-14",
+              "begin_time": "16:20",
+              "end_time": "18:27散场",
+              "lang": "国语2D",
+              "hall": "1号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:10",
+              "end_time": "16:04散场",
+              "lang": "英语3D",
+              "hall": "二号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:20",
+              "end_time": "18:14散场",
+              "lang": "英语3D",
+              "hall": "二号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:25",
+              "end_time": "20:19散场",
+              "lang": "英语3D",
+              "hall": "二号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:30",
+              "end_time": "21:24散场",
+              "lang": "英语3D",
+              "hall": "三号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:45",
+              "end_time": "23:39散场",
+              "lang": "英语3D",
+              "hall": "四号激光厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:55",
+              "end_time": "17:07散场",
+              "lang": "英语3D",
+              "hall": "三号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:15",
+              "end_time": "19:27散场",
+              "lang": "英语3D",
+              "hall": "三号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:30",
+              "end_time": "22:42散场",
+              "lang": "英语3D",
+              "hall": "二号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:35",
+              "end_time": "23:47散场",
+              "lang": "英语3D",
+              "hall": "三号激光厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:40",
+              "end_time": "15:30散场",
+              "lang": "国语2D",
+              "hall": "四号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:00",
+              "end_time": "16:50散场",
+              "lang": "国语2D",
+              "hall": "一号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "17:45",
+              "end_time": "19:35散场",
+              "lang": "国语2D",
+              "hall": "四号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:45",
+              "end_time": "21:35散场",
+              "lang": "国语2D",
+              "hall": "四号激光厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:50",
+              "end_time": "22:40散场",
+              "lang": "国语2D",
+              "hall": "一号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "17:00",
+              "end_time": "18:43散场",
+              "lang": "国语2D",
+              "hall": "一号厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:55",
+              "end_time": "20:38散场",
+              "lang": "国语2D",
+              "hall": "一号厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "大侦探皮卡丘",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:45",
+              "end_time": "17:29散场",
+              "lang": "英语3D",
+              "hall": "四号激光厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

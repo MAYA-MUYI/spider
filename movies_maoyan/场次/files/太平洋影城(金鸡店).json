@@ -1,0 +1,145 @@
+[
+  {
+    "movie_name": "X战警：黑凤凰",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "14:50",
+              "end_time": "16:44散场",
+              "lang": "原版3D",
+              "hall": "中国银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "16:55",
+              "end_time": "18:49散场",
+              "lang": "原版3D",
+              "hall": "中国银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:00",
+              "end_time": "20:54散场",
+              "lang": "原版3D",
+              "hall": "中国银行厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "20:00",
+              "end_time": "21:54散场",
+              "lang": "原版3D",
+              "hall": "3号厅厅冠名联系18200374051"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "追龙Ⅱ",
+    "star": "7.7",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "17:45",
+              "end_time": "19:28散场",
+              "lang": "国语2D",
+              "hall": "爱奇艺影业厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "19:40",
+              "end_time": "21:23散场",
+              "lang": "国语2D",
+              "hall": "爱奇艺影业厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "22:05",
+              "end_time": "23:48散场",
+              "lang": "国语2D",
+              "hall": "3号厅厅冠名联系18200374051"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "最好的我们",
+    "star": "8.9",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "13:45",
+              "end_time": "15:35散场",
+              "lang": "国语2D",
+              "hall": "爱奇艺影业厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "15:45",
+              "end_time": "17:35散场",
+              "lang": "国语2D",
+              "hall": "爱奇艺影业厅"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "18:00",
+              "end_time": "19:50散场",
+              "lang": "国语2D",
+              "hall": "3号厅厅冠名联系18200374051"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:35",
+              "end_time": "23:25散场",
+              "lang": "国语2D",
+              "hall": "爱奇艺影业厅"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "movie_name": "哥斯拉2：怪兽之王",
+    "star": "8.5",
+    "result": [
+      [
+        {
+          "date": "6-11",
+          "session_result": [
+            {
+              "date": "6-11",
+              "begin_time": "15:35",
+              "end_time": "17:47散场",
+              "lang": "原版3D",
+              "hall": "3号厅厅冠名联系18200374051"
+            },
+            {
+              "date": "6-11",
+              "begin_time": "21:05",
+              "end_time": "23:17散场",
+              "lang": "原版3D",
+              "hall": "中国银行厅"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]
