@@ -16,7 +16,6 @@ import json
 from twisted.internet import defer
 from twisted.internet.defer import DeferredLock
 from twisted.internet.error import TimeoutError, ConnectionRefusedError, ConnectError, ConnectionLost, TCPTimedOutError, ConnectionDone
-from yundama_api_requests import indetify_by_response
 logger = logging.getLogger(__name__)
 
 
