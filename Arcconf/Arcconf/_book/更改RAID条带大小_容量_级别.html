@@ -1,0 +1,546 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>更改RAID条带大小/容量/级别 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="设置一致性检查参数.html" />
+    
+    
+    <link rel="prev" href="设置热备盘.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    简介
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="arcconf.html">
+            
+                <a href="arcconf.html">
+            
+                    
+                    Arcconf 
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="设置Spinup参数.html">
+            
+                <a href="设置Spinup参数.html">
+            
+                    
+                    设置Spinup参数
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="设置硬盘PowerSave功能.html">
+            
+                <a href="设置硬盘PowerSave功能.html">
+            
+                    
+                    设置硬盘PowerSave功能
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="设置设备初始化功能.html">
+            
+                <a href="设置设备初始化功能.html">
+            
+                    
+                    设置设备初始化功能
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="设置后台任务优先级.html">
+            
+                <a href="设置后台任务优先级.html">
+            
+                    
+                    设置后台任务优先级
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="查询和设置RAID卡性能模式.html">
+            
+                <a href="查询和设置RAID卡性能模式.html">
+            
+                    
+                    查询和设置RAID卡性能模式
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="设置RAID卡工作模式.html">
+            
+                <a href="设置RAID卡工作模式.html">
+            
+                    
+                    设置RAID卡工作模式
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="设置SATA硬盘密码.html">
+            
+                <a href="设置SATA硬盘密码.html">
+            
+                    
+                    设置SATA硬盘密码
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="创建和删除RAID.html">
+            
+                <a href="创建和删除RAID.html">
+            
+                    
+                    创建和删除RAID
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="设置RAID组的Cache读写属性.html">
+            
+                <a href="设置RAID组的Cache读写属性.html">
+            
+                    
+                    设置RAID组的Cache读写属性
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.10" data-path="设置热备盘.html">
+            
+                <a href="设置热备盘.html">
+            
+                    
+                    设置热备盘
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.2.11" data-path="更改RAID条带大小_容量_级别.html">
+            
+                <a href="更改RAID条带大小_容量_级别.html">
+            
+                    
+                    更改RAID条带大小/容量/级别
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.12" data-path="设置一致性检查参数.html">
+            
+                <a href="设置一致性检查参数.html">
+            
+                    
+                    设置一致性检查参数
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.13" data-path="设置NCQ功能的使能状态.html">
+            
+                <a href="设置NCQ功能的使能状态.html">
+            
+                    
+                    设置NCQ功能的使能状态
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.14" data-path="设置硬盘为直通盘.html">
+            
+                <a href="设置硬盘为直通盘.html">
+            
+                    
+                    设置硬盘为直通盘
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.15" data-path="设置硬盘定位指示灯状态.html">
+            
+                <a href="设置硬盘定位指示灯状态.html">
+            
+                    
+                    设置硬盘定位指示灯状态
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.16" data-path="查询设备信息.html">
+            
+                <a href="查询设备信息.html">
+            
+                    
+                    查询设备信息
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.17" data-path="查询硬盘状态.html">
+            
+                <a href="查询硬盘状态.html">
+            
+                    
+                    查询硬盘状态
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >更改RAID条带大小/容量/级别</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x66F4;&#x6539;raid&#x6761;&#x5E26;&#x5927;&#x5C0F;&#x5BB9;&#x91CF;&#x7EA7;&#x522B;">&#x66F4;&#x6539;RAID&#x6761;&#x5E26;&#x5927;&#x5C0F;/&#x5BB9;&#x91CF;/&#x7EA7;&#x522B;</h1>
+<h2 id="&#x547D;&#x4EE4;&#x529F;&#x80FD;">&#x547D;&#x4EE4;&#x529F;&#x80FD;</h2>
+<blockquote>
+<p>&#x53EF;&#x4EE5;&#x540C;&#x65F6;&#x8C03;&#x6574;RAID&#x4E2D;&#x786C;&#x76D8;&#x6761;&#x5E26;&#x5927;&#x5C0F;&#x3001;RAID&#x5BB9;&#x91CF;&#xFF0C;&#x5E76;&#x53D8;&#x66F4;RAID&#x7EA7;&#x522B;&#x3002;</p>
+</blockquote>
+<h2 id="&#x547D;&#x4EE4;&#x683C;&#x5F0F;">&#x547D;&#x4EE4;&#x683C;&#x5F0F;</h2>
+<p><code>arcconf modify controller_id from ld_id to [stripesize size] capacity raid_level channel_id1 slot_id1 ... channel_idN slot_idN [noprompt]</code></p>
+<h2 id="&#x53C2;&#x6570;&#x8BF4;&#x660E;">&#x53C2;&#x6570;&#x8BF4;&#x660E;</h2>
+<table>
+<thead>
+<tr>
+<th>&#x53C2;&#x6570;</th>
+<th>&#x53C2;&#x6570;&#x8BF4;&#x660E;</th>
+<th>&#x53D6;&#x503C;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>controller_id</td>
+<td>RAID&#x5361;ID</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>ld_id</td>
+<td>&#x5F85;&#x64CD;&#x4F5C;&#x7684;&#x865A;&#x62DF;&#x78C1;&#x76D8;ID</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>size</td>
+<td>&#x5F85;&#x8BBE;&#x7F6E;&#x7684;&#x6761;&#x5E26;&#x5927;&#x5C0F;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>capacity</td>
+<td>&#x5F85;&#x8BBE;&#x7F6E;&#x7684;&#x865A;&#x62DF;&#x78C1;&#x76D8;&#x7684;&#x5927;&#x5C0F;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>raid_level</td>
+<td>&#x5F85;&#x8BBE;&#x7F6E;&#x7684;&#x865A;&#x62DF;&#x78C1;&#x76D8;&#x7684;RAID&#x7EA7;&#x522B;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>channel_id1...channel_idN</td>
+<td>&#x786C;&#x76D8;Channel ID</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>slot_id1...slot_idN</td>
+<td>&#x786C;&#x76D8;&#x69FD;&#x4F4D;&#x53F7;</td>
+<td>&#x2013;</td>
+</tr>
+</tbody>
+</table>
+<p>&#x4F7F;&#x7528;&#x6307;&#x5357;</p>
+<ul>
+<li>&#x5E26;noprompt&#x53C2;&#x6570;&#xFF0C;&#x8868;&#x793A;&#x5F3A;&#x5236;&#x6267;&#x884C;&#x3002;</li>
+</ul>
+<p>&#x4F7F;&#x7528;&#x5B9E;&#x4F8B;</p>
+<pre><code> &#x4E0D;&#x589E;&#x52A0;&#x786C;&#x76D8;&#x66F4;&#x6539;&#x6761;&#x5E26;&#x5927;&#x5C0F;&#x4E3A;&#x201C;1024&#x201D;&#x3002;&amp; &#x5C06;VD 0&#x7684;RAID&#x7EA7;&#x522B;&#x8FC1;&#x79FB;&#x81F3;RAID 5&#x3002;
+domino:# ./arcconf modify 1 from 0 to stripesize 1024 1525760 0 0 0 0 1
+Controllers found: 1 
+Reconfiguration of a logical device is a long process. Are you sure you want to continue? 
+Press y, then ENTER to continue or press ENTER to abort: y 
+
+Reconfiguring logical device: LogicalDrv 0 
+
+Command completed successfully.
+domino:# ./arcconf modify 1 from 0 to 1024 5 0 0 0 1 0 2 noprompt
+Controllers found: 1 
+Reconfiguring logical device: LogicalDrv 0 
+
+Command completed successfully.
+</code></pre>
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="设置热备盘.html" class="navigation navigation-prev " aria-label="Previous page: 设置热备盘">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="设置一致性检查参数.html" class="navigation navigation-next " aria-label="Next page: 设置一致性检查参数">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"更改RAID条带大小/容量/级别","level":"1.2.11","depth":2,"next":{"title":"设置一致性检查参数","level":"1.2.12","depth":2,"path":"设置一致性检查参数.md","ref":"设置一致性检查参数.md","articles":[]},"previous":{"title":"设置热备盘","level":"1.2.10","depth":2,"path":"设置热备盘.md","ref":"设置热备盘.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"更改RAID条带大小_容量_级别.md","mtime":"2019-08-07T07:56:32.075Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-08-07T08:03:03.971Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
