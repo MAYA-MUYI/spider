@@ -23,7 +23,7 @@ class SingletonType(type):
         if not hasattr(cls, "_instance"):
             with SingletonType._instance_lock:
                 if not hasattr(cls, "_instance"):
-                    cls._instance = super(SingletonType,cls).__call__(*args, **kwargs)
+                    cls._instance = super(SingletonType, cls).__call__(*args, **kwargs)
         return cls._instance
 
 
@@ -184,7 +184,7 @@ def get_cookie_token():
 
 
 if __name__ == '__main__':
-    # login('1370218166@qq.com', 'mimajiushi:weixin')
+    login('你的账号', '你的密码')
     cookies, token = get_cookie_token()
 
     # 获取公众号信息
